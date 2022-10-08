@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="FooTest" time="0.028" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="FooTest" time="0.035" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="16"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\User\IdeaProjects\auto21\target\test-classes;C:\Users\User\IdeaProjects\auto21\target\classes;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\User\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\User\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="java.class.path" value="C:\Users\User\Desktop\IT-högskolan\Auto testning\auto21\target\test-classes;C:\Users\User\Desktop\IT-högskolan\Auto testning\auto21\target\classes;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.0\junit-jupiter-api-5.9.0.jar;C:\Users\User\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-commons\1.9.0\junit-platform-commons-1.9.0.jar;C:\Users\User\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.0\junit-jupiter-engine-5.9.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-engine\1.9.0\junit-platform-engine-1.9.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="SE"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-16.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\User\AppData\Local\Temp\surefire4583167660656232545\surefirebooter2311708276155926563.jar C:\Users\User\AppData\Local\Temp\surefire4583167660656232545 2022-09-20T21-09-09_652-jvmRun1 surefire13817911954080199234tmp surefire_016219273537582199890tmp"/>
+    <property name="sun.java.command" value="C:\Users\User\AppData\Local\Temp\surefire14212122754755023761\surefirebooter13067008250485590329.jar C:\Users\User\AppData\Local\Temp\surefire14212122754755023761 2022-10-08T19-29-59_130-jvmRun1 surefire10442029738260977813tmp surefire_08050602071262673741tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\User\IdeaProjects\auto21\target\test-classes;C:\Users\User\IdeaProjects\auto21\target\classes;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\User\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\User\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\User\Desktop\IT-högskolan\Auto testning\auto21\target\test-classes;C:\Users\User\Desktop\IT-högskolan\Auto testning\auto21\target\classes;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.0\junit-jupiter-api-5.9.0.jar;C:\Users\User\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-commons\1.9.0\junit-platform-commons-1.9.0.jar;C:\Users\User\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.0\junit-jupiter-engine-5.9.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-engine\1.9.0\junit-platform-engine-1.9.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\User"/>
     <property name="user.language" value="sv"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2021-07-20"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-16.0.2"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\User\IdeaProjects\auto21"/>
+    <property name="basedir" value="C:\Users\User\Desktop\IT-högskolan\Auto testning\auto21"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\User\AppData\Local\Temp\surefire4583167660656232545\surefirebooter2311708276155926563.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\User\AppData\Local\Temp\surefire14212122754755023761\surefirebooter13067008250485590329.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="16.0.2+7-67"/>
@@ -45,7 +45,7 @@
     <property name="java.io.tmpdir" value="C:\Users\User\AppData\Local\Temp\"/>
     <property name="idea.version" value="2022.2.2"/>
     <property name="java.version" value="16.0.2"/>
-    <property name="user.dir" value="C:\Users\User\IdeaProjects\auto21"/>
+    <property name="user.dir" value="C:\Users\User\Desktop\IT-högskolan\Auto testning\auto21"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -56,6 +56,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="60.0"/>
   </properties>
-  <testcase name="myMethod" classname="FooTest" time="0.019"/>
+  <testcase name="myMethod" classname="FooTest" time="0.024"/>
   <testcase name="myFalseMethod" classname="FooTest" time="0"/>
 </testsuite>
